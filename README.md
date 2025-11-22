@@ -4,14 +4,14 @@ Accurate Cyber Defense Network Quick Scanner is a lightweight and efficient tool
 It helps identify open ports, active services, and potential vulnerabilities in real time. The scanner is built for speed and ease of use, making it ideal for system administrators, 
 cybersecurity analysts, and IT professionals who need fast insights into their network’s security posture.
 
-**How to clone the repo**
-
+## How to clone the repo
+```bash    
 git clone https://github.com/Iankulani/Accurate-Cyber-Defense-Network-Quick-Scanner.git
 
 cd Accurate-Cyber-Defense-Network-Quick-Scanner
+```
 
-
-**How to run**
-
+## How to run
+```bash
 python3 Accurate-Cyber-Defense-Network-Quick-Scanner
-
+```
